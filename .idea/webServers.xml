@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f3730cb0-5255-49d5-b994-3ed4f2a63ee4" name="isi" url="http://dev-isi.utt.fr/~zhangxi6">
+        <fileTransfer host="dev-isi.utt.fr" port="22" rootFolder="/home/etu/zhangxi6/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,4 +1,4 @@
 <?php
-echo "3rd change"
-echo "git manifique"
+echo "3rd change";
+echo "git manifique";
 ?>
