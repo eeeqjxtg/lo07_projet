@@ -1,0 +1,31 @@
+td{
+    height: 30px
+}
+th{
+    height: 30px
+}
+ .jumbotron{
+                margin-bottom: 0px;
+                background:url(../img/qiche.jpg);
+                background-position: 0％25％;
+                background-size: cover;
+                background-repeat: no-repeat;
+                position: relative;
+            }
+            #words{
+                position:absolute; bottom:100px; padding:0px; margin:0px
+            }
+            .words2{
+                position:absolute; bottom:100px; padding:0px; margin:0px; text-align: center;
+            }
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2019-6-1, 15:52:27
+    Author     : Administrator
+*/
+
