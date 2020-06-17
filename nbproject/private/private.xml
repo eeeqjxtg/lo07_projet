@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/view/view_deleteParking.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/view/view_deleteCustomer.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/view/view_inscription.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/view/view_confirmRentCars.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/Controler/router.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/Controler/ControllerAdmin.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/Model/ModelVoiture.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/Model/ModelLocation.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/Model/ModelSite.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/view/view_addSite.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/view/view_addParking.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/view/index.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/Controler/controlerLocation.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/Model/DB_connect.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/Controler/controlerCar.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/Model/ModelAgence.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/Model/ModelParking.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/Controler/controlerParking.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/view/PageSuccess.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/Model/ModelUser.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/fragment/fragmentNav_admin.html</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/Model/ModelLocaSite.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/view/view_returnCars.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/Model/newEmptyPHP.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/view/PersonalPage.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/Controler/controlerAgence.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/view/fragmentNav.html</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/view/view_putCarsToAgence.php</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/LO07_Project/Controler/controlerUser.php</file>
+        </group>
+    </open-files>
+</project-private>
