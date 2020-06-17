@@ -1,0 +1,35 @@
+           <!--<div class="container" style="position: relative" >-->
+           <!--//style=" position: absolute;z-index:99;width: 1140px"删掉了这两个东西-->
+           <nav class="navbar navbar-inverse" role="navigation" >
+                <div class="container-fluid">
+                    <div class="nav navbar-header">
+                        <a class="navbar-brand" href="../Controler/router.php?action=acueil">Exit</a>
+                    </div>
+                    <div>
+                        <ul class="nav navbar-nav">
+                            <li><a href="../controler/router.php?action=deleteUsers&controller=admin">Customer Management</a>
+                                <ul class="submenu">
+                                    <li><a href="../controler/router.php?action=deleteUsers&controller=admin">Delete</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="../controler/router.php?action=Parking&controller=admin">Parking Management</a>
+                                <ul class="submenu">
+                                    <li><a href="../controler/router.php?action=addParking&controller=admin">add</a></li>
+                                    <li><a href="../controler/router.php?action=deleteParking&controller=admin">delete</a></li>
+                                </ul>
+                            </li>
+                            <!--要不然只做一个界面四个表单-->
+                            <li><a href="../controler/router.php?action=ReadAllCars&controller=admin">Car Management</a>
+                                <ul class="submenu">
+                                    <li><a href="../controler/router.php?action=returnCars&controller=admin">return cars</a></li>
+                                    <li><a href="../controler/router.php?action=rentCars&controller=admin">rent cars</a></li>
+                                    <li><a href="../controler/router.php?action=putCarsAtAgence&controller=admin">put cars in garage</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    
+                    
+                    
+                </div>
+            </nav>
